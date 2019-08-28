@@ -1,6 +1,6 @@
 small fun game.
 
-Sounds interesting? Follow on! This cryptic email will help you to understand the way forward.
+Sounds interesting? Follow on! This cryptic README will help you to understand the way forward.
 
 User Id is: abcd
 
